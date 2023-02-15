@@ -2,7 +2,7 @@
 C# Test Automation Framework
 
 This Test Automation Project was built on .NET platform using C#, NUnit and Specflow
-It adopts BDD and POM implementation. Test Automation framework includes UI and API tests aimed at testing Registration, Login and Voting functionalities.
+It adopts BDD and POM implementation. Test Automation framework includes UI and API tests aimed at testing Registration, Login and Voting functionalities for Buggy Rating website: https://buggy.justtestit.org/
 
 Steps to run tests:
 1. Clone the project onto your local machine
